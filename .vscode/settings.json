@@ -1,5 +1,7 @@
 {
     "editor.fontFamily": "Iosevka Term SS03, 'Sarasa Term SC', monospace",
+    "editor.fontSize": 16,
+    "editor.formatOnType": true,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "files.defaultLanguage": "c",
     "C_Cpp.clang_format_sortIncludes": true,
@@ -9,4 +11,21 @@
     "[c]": {
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.minimap.enabled": false,
+    "editor.snippetSuggestions": "top",
+    "editor.suggestSelection": "first",
+    "editor.tabSize": 4,
+    "explorer.confirmDelete": false,
+    "explorer.sortOrder": "type",
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "off",
+    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.rendererType": "dom",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Dark (Monokai)",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.settings.useSplitJSON": true,
+    "git.autofetch": true,
 }
