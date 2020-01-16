@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "Iosevka Term SS03, 'Sarasa Term SC', monospace",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.defaultLanguage": "c",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.suggestSnippets": false,
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+}
